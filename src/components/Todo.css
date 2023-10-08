@@ -1,0 +1,10 @@
+.in {
+    width: 300px;
+    display: flex;
+}
+.btn1{
+    justify-content: flex-start;
+}
+.overline {
+    text-decoration: line-through;
+}
